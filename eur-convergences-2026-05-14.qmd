@@ -1,0 +1,467 @@
+---
+title: "Convergences EURs – Laboratoire Paragraphe"
+subtitle: "Service IA : albert — 43 chercheurs analysés"
+date: "2026-05-14"
+format:
+  html:
+    toc: true
+    toc-depth: 6
+    theme: cosmo
+---
+
+## 🎨 Arts, créations, technologies & industries culturelles
+
+**Score cumulé :** 2046 — **Moyenne :** 48/100
+
+### MPIP
+
+**Score cumulé :** 333 (6 p.) — **Moyenne :** 56/100
+
+#### Synthèse
+
+**Score de la synthèse :** 65 /100
+
+Les travaux du MPIP couvrent largement la transformation numérique, la gestion de l'information et les pratiques culturelles (musées, arts visuels, documentation audiovisuelle), ce qui crée une convergence notable avec l'EUR Arts, créations, technologies & industries culturelles, tout en présentant des écarts sur les thématiques purement scientifiques ou de santé.
+
+##### Forces
+
+Forte adéquation avec les enjeux numériques et culturels (arts, musées, médias) et présence de compétences transversales en gestion de la connaissance et éthique numérique.
+
+##### Recommandations
+
+Renforcer les collaborations sur les projets numériques culturels et intégrer davantage les perspectives de santé, migration et démocratie pour élargir la pertinence stratégique de l'EUR.
+
+##### Vigilances
+
+Présence de recherches peu liées aux arts (physique nucléaire) et faible couverture des dimensions care et démocratie, pouvant limiter la portée interdisciplinaire.
+
+### DEVSENCEA
+
+**Score cumulé :** 335 (10 p.) — **Moyenne :** 34/100
+
+#### Synthèse
+
+**Score de la synthèse :** 48 /100
+
+L'axe DEVSENCEA converge partiellement avec l'EUR Arts, créations, technologies & industries culturelles, notamment via l'usage d'outils numériques et d'approches visuelles, mais reste majoritairement centré sur le care et la santé mentale.
+
+##### Forces
+
+Points communs forts sur la cognition, la santé mentale et l'emploi de supports numériques ou visuels qui ouvrent des passerelles vers les pratiques artistiques et les transitions technologiques.
+
+##### Recommandations
+
+Encourager des projets collaboratifs alliant recherche en care à la création artistique et aux technologies numériques, tout en intégrant des volets de durabilité environnementale et de participation citoyenne.
+
+##### Vigilances
+
+Faible intégration des dimensions artistiques profondes, des enjeux écologiques et des problématiques de gouvernance démocratique, risquant de limiter la pertinence interdisciplinaire.
+
+### CITU
+
+**Score cumulé :** 566 (11 p.) — **Moyenne :** 51/100
+
+#### Synthèse
+
+**Score de la synthèse :** 68 /100
+
+Les travaux s'articulent majoritairement autour du numérique, du design et du patrimoine culturel, assurant une forte convergence avec l'EUR Arts, créations, technologies & industries culturelles, tout en présentant des apports limités au care et quasi inexistants aux enjeux démocratiques.
+
+##### Forces
+
+Présence solide d'arts numériques, d'hypermédias, de humanités numériques et de technologies de transition (IA, blockchain, IoT) qui renforcent la pertinence pour les axes Arts et Transitions.
+
+##### Recommandations
+
+Favoriser des collaborations interdisciplinaires incluant le secteur du care et les acteurs de la gouvernance démocratique, et développer des projets éthiques et participatifs pour élargir la portée socioculturelle des recherches.
+
+##### Vigilances
+
+Faible intégration des dimensions care (santé, rééducation) et démocratie (gouvernance, participation citoyenne), risque de sur‑spécialisation technique au détriment de l'impact sociétal.
+
+### C3U
+
+**Score cumulé :** 305 (8 p.) — **Moyenne :** 38/100
+
+#### Synthèse
+
+**Score de la synthèse :** 58 /100
+
+Les travaux oscillent entre une forte ancre dans le care et l'ergonomie et des projets où créativité, narration multimédia et technologies numériques sont centrales, générant ainsi une convergence modérée entre l'axe C3U et l'EUR Arts, créations, technologies & industries culturelles.
+
+##### Forces
+
+Présence de projets combinant création artistique, médias numériques et inclusion du handicap, ainsi que des initiatives liées aux transitions numériques et écologiques, qui offrent des synergies entre les trois piliers du C3U et les arts.
+
+##### Recommandations
+
+Favoriser les collaborations inter‑disciplinaires liant ergonomie/care aux pratiques artistiques et aux technologies culturelles, et encourager des projets explicites intégrant les dimensions démocratiques aux industries culturelles pour renforcer la cohérence globale.
+
+##### Vigilances
+
+Une proportion importante de recherches reste centrée sur le care et l'ergonomie sans articulation suffisante avec les enjeux culturels ou démocratiques, risquant de limiter la portée interdisciplinaire.
+
+### ADN
+
+**Score cumulé :** 507 (8 p.) — **Moyenne :** 63/100
+
+#### Synthèse
+
+**Score de la synthèse :** 72 /100
+
+Les travaux de l’AXE ADN s’articulent majoritairement autour de l’art numérique, des technologies créatives et de la transformation digitale, ce qui correspond fortement aux thématiques de l’EUR Arts et Transitions, avec des apports plus limités aux dimensions Care et Démocratie.
+
+##### Forces
+
+Forte expertise en visualité, sémiotique, humanités numériques et médiation culturelle, ainsi qu’une capacité avérée à piloter des changements numériques au sein d’organisations culturelles.
+
+##### Recommandations
+
+Renforcer les collaborations avec les équipes Care et Démocratie, intégrer des projets d’inclusion numérique et de politiques publiques, et développer des indicateurs d’impact sociétal pour élargir la portée de l’ADN.
+
+##### Vigilances
+
+Faible prise en compte des enjeux de santé, d’inclusion des publics vulnérables et de gouvernance démocratique, ainsi qu’un risque de sur‑spécialisation sur le seul volet artistique/technologique.
+
+## 💙 Care – prendre soin : santé mentale, handicap, migrations
+
+**Score cumulé :** 2105 — **Moyenne :** 49/100
+
+### MPIP
+
+**Score cumulé :** 122 (6 p.) — **Moyenne :** 20/100
+
+#### Synthèse
+
+**Score de la synthèse :** 35 /100
+
+Les travaux du MPIP convergent modestement avec l'EUR Care, principalement via quelques études sur l'impact des écrans sur la santé mentale, tandis que la plupart des recherches se situent dans les domaines de la transition numérique, des arts ou des sciences physiques.
+
+##### Forces
+
+Présence d'approches numériques et d'analyse de l'information qui permettent d'explorer les déterminants de la santé mentale et d'envisager des outils de soutien virtuel.
+
+##### Recommandations
+
+Renforcer les collaborations inter‑disciplinaires avec les spécialistes du soin, développer des projets numériques centrés sur la santé mentale, le handicap et les migrations, et intégrer des indicateurs de bien‑être dans les évaluations de la recherche.
+
+##### Vigilances
+
+Faible représentation des thématiques de handicap, de migration et de prise en charge directe, la majorité des projets restant orientés vers les arts, la technologie ou la physique.
+
+### DEVSENCEA
+
+**Score cumulé :** 720 (10 p.) — **Moyenne :** 72/100
+
+#### Synthèse
+
+**Score de la synthèse :** 78 /100
+
+La plupart des travaux de l'AXE DEVSENCEA s'articulent autour du care – santé mentale, attachement, déficiences – avec quelques incursions dans les arts et les transitions numériques, mais peu d'éléments liés à la démocratie ou aux enjeux écologiques.
+
+##### Forces
+
+Expertise solide en santé mentale périnatale, autisme, déficiences intellectuelles et interventions cliniques ; capacité à mobiliser des outils numériques et des approches créatives (visualisation, écriture).
+
+##### Recommandations
+
+Renforcer les collaborations avec les champs des arts, des technologies numériques et des études de démocratie ; intégrer explicitement les enjeux de migration, d'écologie et de gouvernance dans les projets futurs pour élargir la portée interdisciplinaire.
+
+##### Vigilances
+
+Faible ancrage dans les dimensions de transition numérique/écologique et de gouvernance démocratique ; risque de rester cantonné au domaine du care sans transversalité suffisante.
+
+### CITU
+
+**Score cumulé :** 420 (11 p.) — **Moyenne :** 38/100
+
+#### Synthèse
+
+**Score de la synthèse :** 48 /100
+
+Les projets du CITU mobilisent surtout des technologies numériques (robotique, IA, capteurs) avec quelques applications directes en santé (détection d’épisodes épileptiques, rééducation, imagerie médicale), tandis que la majorité des travaux reste centrée sur les arts, le patrimoine et les transitions écologiques, limitant ainsi la convergence globale avec l’EUR Care.
+
+##### Forces
+
+Expertise solide en robotique, IA et imagerie médicale, offrant des compétences techniques directement transposables aux besoins de santé, de handicap et de rééducation.
+
+##### Recommandations
+
+Développer des collaborations avec les acteurs du care, orienter davantage de projets vers la santé mentale, le handicap et les migrations, et intégrer des approches interdisciplinaires incluant les sciences sociales pour renforcer la pertinence avec l’EUR Care.
+
+##### Vigilances
+
+Faible articulation avec les dimensions sociales du care (santé mentale, migrations) et manque d’implication des parties prenantes du secteur sanitaire et social.
+
+### C3U
+
+**Score cumulé :** 500 (8 p.) — **Moyenne :** 63/100
+
+#### Synthèse
+
+**Score de la synthèse :** 78 /100
+
+La plupart des travaux s’ancrent fortement dans les thématiques de soin (éducation thérapeutique, handicap invisible, ergonomie hospitalière, sécurité des patients), avec des apports modérés aux transitions numériques/écologiques et une présence périphérique des dimensions artistiques et démocratiques.
+
+##### Forces
+
+Expertise solide en ergonomie, inclusion et sécurité des soins ; capacité à mobiliser des approches interdisciplinaires centrées sur le bien‑être des populations vulnérables.
+
+##### Recommandations
+
+Renforcer les ponts avec les axes Transitions et Démocratie en intégrant davantage de perspectives de gouvernance et de politiques publiques, et valoriser les apports artistiques (narration, multimédia) pour enrichir les dispositifs de soin.
+
+##### Vigilances
+
+Faible articulation avec les enjeux de gouvernance démocratique et les industries culturelles ; risque de confinement disciplinaire si les dimensions transversales ne sont pas renforcées.
+
+### ADN
+
+**Score cumulé :** 343 (8 p.) — **Moyenne :** 43/100
+
+#### Synthèse
+
+**Score de la synthèse :** 58 /100
+
+Les travaux associent des approches numériques (arts, transitions) à des projets ciblant le care, notamment l’accessibilité, l’imagerie médicale et le design inclusif, ce qui crée une convergence partielle entre l’AXE ADN et l’EUR Care.
+
+##### Forces
+
+Présence d’applications concrètes au soin (imagerie médicale pour la sclérose en plaques, design inclusif pour le handicap) et d’initiatives d’accessibilité numérique.
+
+##### Recommandations
+
+Renforcer les recherches liant les technologies numériques aux problématiques de santé mentale et de migrations, et encourager des collaborations interdisciplinaires intégrant les dimensions politiques et démocratiques du care.
+
+##### Vigilances
+
+Manque d’articulation avec la santé mentale, les migrations et les enjeux démocratiques, ainsi qu’une prédominance des thématiques arts/transitions au détriment du care.
+
+## 🏛️ Enjeux démocratiques contemporains, politiques publiques, risques géopolitiques
+
+**Score cumulé :** 1203 — **Moyenne :** 28/100
+
+### MPIP
+
+**Score cumulé :** 205 (6 p.) — **Moyenne :** 34/100
+
+#### Synthèse
+
+**Score de la synthèse :** 48 /100
+
+Les travaux du MPIP s’articulent principalement autour de la transformation numérique, de la gestion stratégique de l’information et des pratiques culturelles, offrant une convergence notable avec les thématiques de transition numérique de l’EUR, mais les liens avec les enjeux démocratiques, les politiques publiques et les risques géopolitiques restent limités.
+
+##### Forces
+
+Expertise solide en technologies de l’information, en médiation culturelle et en gestion des connaissances, ainsi que des compétences en éthique numérique et en impact sociétal.
+
+##### Recommandations
+
+Renforcer les collaborations avec les chercheurs en sciences politiques et en études géopolitiques, intégrer des projets de recherche orientés vers les politiques publiques numériques et les mécanismes de participation citoyenne.
+
+##### Vigilances
+
+Faible intégration des dimensions de gouvernance démocratique, de politiques publiques et d’analyse géopolitique, ainsi que des thématiques santé et migration.
+
+### DEVSENCEA
+
+**Score cumulé :** 260 (10 p.) — **Moyenne :** 26/100
+
+#### Synthèse
+
+**Score de la synthèse :** 38 /100
+
+Les travaux de l'AXE DEVSENCEA sont majoritairement ancrés dans le domaine du care et de la santé mentale, avec des apports ponctuels aux arts et aux transitions numériques, mais ils montrent peu de lien explicite avec les enjeux démocratiques, les politiques publiques et les risques géopolitiques de l'EUR.
+
+##### Forces
+
+Excellente expertise en recherche sur l'attachement, la régulation émotionnelle et la santé mentale infantile et maternelle, ainsi que des compétences interdisciplinaires touchant aux arts et aux outils numériques.
+
+##### Recommandations
+
+Favoriser des collaborations avec des chercheurs en sciences politiques et en études géopolitiques, intégrer des cadres d'analyse des politiques publiques dans les projets existants, et développer des programmes de recherche transversaux liant le care aux enjeux démocratiques et aux transitions numériques/écologiques.
+
+##### Vigilances
+
+Absence d'articulation claire avec les problématiques de gouvernance démocratique, de politiques publiques et de géopolitique, ce qui limite la pertinence pour l'EUR sur ces axes ; risque de confinement disciplinaire au care.
+
+### CITU
+
+**Score cumulé :** 246 (11 p.) — **Moyenne :** 22/100
+
+#### Synthèse
+
+**Score de la synthèse :** 38 /100
+
+Les travaux de l'AXE CITU sont majoritairement ancrés dans les transitions numériques, l'IA, la robotique et le patrimoine culturel, offrant une forte convergence avec les EUR Arts et Transitions, mais les liens avec les enjeux démocratiques, les politiques publiques et les risques géopolitiques restent limités.
+
+##### Forces
+
+Expertise pointue en technologies numériques, IA, robotique et valorisation du patrimoine numérique, ainsi qu'une approche interdisciplinaire incluant le care et les arts.
+
+##### Recommandations
+
+Renforcer les collaborations avec les sciences sociales et les études géopolitiques, intégrer des analyses de politiques publiques et des cadres de gouvernance démocratique dans les projets, et favoriser la co-conception avec les parties prenantes publiques.
+
+##### Vigilances
+
+Faible prise en compte des dimensions démocratiques, des politiques publiques et des enjeux géopolitiques, ce qui peut restreindre la pertinence pour l'EUR Démocratie.
+
+### C3U
+
+**Score cumulé :** 265 (8 p.) — **Moyenne :** 33/100
+
+#### Synthèse
+
+**Score de la synthèse :** 38 /100
+
+Les travaux du C3U sont majoritairement ancrés dans le care, l'ergonomie et les technologies numériques, avec des apports ponctuels aux transitions numériques/écologiques et à la gouvernance, mais ils montrent peu d'articulation directe avec les enjeux démocratiques, les politiques publiques générales ou les risques géopolitiques.
+
+##### Forces
+
+Expertise reconnue en ergonomie, inclusion, santé et innovation technologique, ainsi que des contributions aux transitions numériques et écologiques.
+
+##### Recommandations
+
+Renforcer les liens avec les études de gouvernance, les politiques publiques et les analyses de risques géopolitiques, et encourager des projets interdisciplinaires intégrant le care et la démocratie.
+
+##### Vigilances
+
+Faible prise en compte des dimensions démocratiques, des politiques publiques larges et des enjeux géopolitiques, ainsi qu'une marginalité des arts et cultures.
+
+### ADN
+
+**Score cumulé :** 227 (8 p.) — **Moyenne :** 28/100
+
+#### Synthèse
+
+**Score de la synthèse :** 40 /100
+
+Les travaux de l'AXE ADN sont majoritairement centrés sur l'art numérique, la visualité et les transitions digitales, avec peu de lien explicite aux enjeux démocratiques, aux politiques publiques ou aux risques géopolitiques, bien que quelques projets abordent l'inclusion numérique et les politiques d'accès.
+
+##### Forces
+
+Excellente maîtrise des technologies numériques, de la sémiotique et des humanités numériques, offrant un socle solide pour soutenir des politiques publiques d'innovation culturelle et de transformation digitale.
+
+##### Recommandations
+
+Renforcer les collaborations avec les acteurs de la démocratie et des politiques publiques, intégrer des analyses d'impact sociopolitique dans les projets, et développer des initiatives orientées vers la gouvernance numérique et la résilience face aux risques géopolitiques.
+
+##### Vigilances
+
+Absence d'ancrage clair aux questions de gouvernance, de participation citoyenne et de géopolitique, ce qui peut limiter la pertinence des recherches pour les enjeux démocratiques contemporains.
+
+## 🌱 Transitions numériques, écologiques & économiques
+
+**Score cumulé :** 2595 — **Moyenne :** 60/100
+
+### MPIP
+
+**Score cumulé :** 355 (6 p.) — **Moyenne :** 59/100
+
+#### Synthèse
+
+**Score de la synthèse :** 68 /100
+
+Les travaux de l’AXE MPIP sont majoritairement centrés sur la transformation numérique, la gestion stratégique de l’information et les technologies émergentes, ce qui correspond bien aux enjeux de transitions numériques, écologiques et économiques de l’EUR, avec des apports complémentaires en arts et démocratie mais peu d’implication en santé ou migration.
+
+##### Forces
+
+Expertise forte en technologies de l’information, web sémantique, bibliothèques numériques et applications industrielles (ex. ion thruster) qui soutiennent les transitions numériques et économiques.
+
+##### Recommandations
+
+Renforcer les projets intégrant des dimensions écologiques (ex. énergie durable) et sociétales (démocratie, santé), et favoriser les collaborations interdisciplinaires avec les équipes arts et care.
+
+##### Vigilances
+
+Faible prise en compte des dimensions écologiques, de la santé, de la migration et des enjeux démocratiques, ainsi que des risques de sur‑spécialisation technologique.
+
+### DEVSENCEA
+
+**Score cumulé :** 370 (10 p.) — **Moyenne :** 37/100
+
+#### Synthèse
+
+**Score de la synthèse :** 35 /100
+
+Les travaux de l'axe DEVSENCEA sont majoritairement centrés sur le care (attachement, santé mentale, développement infantile), avec quelques incursions ponctuelles dans les arts et l'usage d'outils numériques, mais peu d'éléments relient ces recherches aux transitions numériques, écologiques ou économiques de l'EUR.
+
+##### Forces
+
+Forte expertise en sciences du care et en interventions cliniques, ainsi que des premiers pas vers l'intégration d'outils numériques et de dimensions artistiques.
+
+##### Recommandations
+
+Encourager des projets interdisciplinaires qui associent le care à la durabilité environnementale et aux modèles économiques numériques, et renforcer les collaborations avec les pôles arts et démocratie pour élargir la portée des recherches.
+
+##### Vigilances
+
+Absence notable d'axes de recherche explicitement liés aux enjeux écologiques, économiques et à la gouvernance démocratique, risquant de limiter la transversalité avec l'EUR.
+
+### CITU
+
+**Score cumulé :** 832 (11 p.) — **Moyenne :** 76/100
+
+#### Synthèse
+
+**Score de la synthèse :** 70 /100
+
+Les travaux du CITU s’articulent majoritairement autour de la transition numérique, avec des apports ponctuels en optimisation énergétique et valorisation économique des ressources, tandis que les dimensions culturelles et démocratiques restent marginales.
+
+##### Forces
+
+Forte adéquation avec les technologies numériques, interdisciplinarité technique et potentiel d’impact économique et écologique via l’optimisation et la valorisation des ressources.
+
+##### Recommandations
+
+Renforcer les collaborations avec les secteurs du care et de la démocratie, intégrer davantage d’objectifs écologiques et économiques dans les projets, et encourager la transversalité entre arts, sciences et politiques publiques.
+
+##### Vigilances
+
+Faible prise en compte des enjeux de santé (care), de gouvernance démocratique et d’inclusion sociétale, risque de focalisation technique isolée.
+
+### C3U
+
+**Score cumulé :** 515 (8 p.) — **Moyenne :** 64/100
+
+#### Synthèse
+
+**Score de la synthèse :** 72 /100
+
+Les travaux de l'AXE C3U, majoritairement centrés sur l'ergonomie, le care et l'inclusion, intègrent de façon notable les enjeux de transition numérique, écologique et économique, notamment via les technologies digitales, la durabilité et la gestion des risques, tout en conservant une moindre articulation avec les dimensions artistiques et démocratiques.
+
+##### Forces
+
+Forte expertise en ergonomie et en soins (care) qui se décline naturellement vers la résilience, la durabilité et les technologies numériques, créant des synergies solides avec les axes de transition de l'EUR.
+
+##### Recommandations
+
+Renforcer les projets qui combinent ergonomie, digital et durabilité (ex. IA, chatbots, gestion des déchets) tout en structurant des collaborations avec les pôles artistiques et les acteurs de la gouvernance démocratique pour élargir la portée de l’EUR.
+
+##### Vigilances
+
+Sous‑développement des dimensions artistiques, culturelles et démocratiques, ainsi qu’une possible dispersion des efforts entre care et transitions sans articulation stratégique claire.
+
+### ADN
+
+**Score cumulé :** 523 (8 p.) — **Moyenne :** 65/100
+
+#### Synthèse
+
+**Score de la synthèse :** 72 /100
+
+Les travaux de l’AXE ADN s’articulent majoritairement autour des transformations numériques, de la visualité et des humanités numériques, assurant une forte convergence avec les objectifs de transition numérique de l’EUR, tandis que les dimensions écologiques, économiques, de care et de démocratie restent marginales.
+
+##### Forces
+
+Expertise reconnue en visualité digitale, sémiotique, gestion du changement et capitalisation des connaissances, ainsi que des projets d’inclusion numérique et d’open data qui soutiennent les priorités de transition numérique.
+
+##### Recommandations
+
+Renforcer les collaborations avec les pôles écologie et économie, intégrer des problématiques de durabilité et d’impact sociétal, et élargir les projets vers le care et la démocratie pour atteindre une convergence totale avec l’EUR.
+
+##### Vigilances
+
+Sous‑intégration des enjeux écologiques, économiques, de gouvernance démocratique et de care, ainsi qu’un risque de spécialisation excessive dans l’art numérique au détriment d’une approche interdisciplinaire plus large.
+
